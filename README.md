@@ -10,5 +10,5 @@ The Servo motor is used to rotate a V-shape beam about its centre.
 An ultrasonic sensor (HC-SR-04) is used to detect the ball's position on the beam.
 
 ### 4. Video uploaded on You-Tube 
-Link - https://youtu.be/O6W6XLKvcoo
+Link - https://youtu.be/48WH9I99PbE
 
